@@ -1,0 +1,6 @@
+2023.01.24 13:06:40 WARN  web[][c.z.h.p.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=12h18m3s197ms435µs800ns).
+2023.01.24 15:51:22 WARN  web[][c.z.h.p.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h6m10s343ms39µs500ns).
+2023.01.24 18:19:20 WARN  web[][c.z.h.p.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=33m56s202ms726µs400ns).
+2023.01.24 22:46:58 WARN  web[][c.z.h.p.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h36m6s154ms241µs700ns).
+2023.01.24 22:53:01 INFO  web[][o.s.s.a.p.ExpiredSessionsCleaner] Purge of expired session tokens has removed 0 elements
+2023.01.24 22:53:01 INFO  web[][o.s.s.a.p.ExpiredSessionsCleaner] Purge of expired SAML message ids has removed 0 elements
